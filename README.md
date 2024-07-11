@@ -54,6 +54,9 @@ Usage Instructions
     Register a new account or log in to access the user panel.
     Admin users can explore admin functionalities for managing users.
 
+Local Testing
+
+Although the website is hosted locally, users can still register and log in because Firebase is an online database, not a local one.
 Disclaimer
 
 Purchases made through the Shoppy link are for demonstration purposes only and do not activate any actual services. This project is intended for educational use to illustrate web development concepts.
