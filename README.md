@@ -54,6 +54,6 @@ Usage Instructions
     Register a new account or log in to access the user panel.
     Admin users can explore admin functionalities for managing users.
 
-Disclaimer Disclaimer
+Disclaimer
 
 Purchases made through the Shoppy link are for demonstration purposes only and do not activate any actual services. This project is intended for educational use to illustrate web development concepts.
