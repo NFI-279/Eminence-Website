@@ -8,17 +8,27 @@ Home Page
     Overview: Showcases images of the cheat software.
     Special Feature: A "GET EMINENCE" button that redirects to a Shoppy page for purchasing the software. Note: Transactions on Shoppy are non-functional and serve an illustrative purpose only.
 
+
+![Example Image](resources/home.png)
+
 Store Page
 
     Content: Displays the prices and subscription durations for each game's cheat software.
+
+![Example Image](resources/store.PNG)
 
 About Page
 
     Content: Provides detailed information about the cheat software and the website's purpose.
 
+
+![Example Image](resources/about.png)
+
 User Authentication
 
     Functionality: Allows users to register and log in using email and password credentials, powered by Firebase Authentication.
+
+![Example Image](resources/form.PNG)
 
 User Panel
 
@@ -26,6 +36,9 @@ User Panel
     Features:
         Displays the latest loader update with date and message.
         Shows subscription status and remaining days for each software.
+
+
+![Example Image](resources/user-panel.png)
 
 Admin Panel
 
@@ -38,6 +51,8 @@ Admin Panel
             Remaining subscription days for each software.
             Ban status.
             Rank status (admin or user).
+
+![Example Image](resources/admin.PNG)
 
 Technology Stack
 
