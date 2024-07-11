@@ -61,3 +61,7 @@ Although the website is hosted locally, users can still register and log in beca
 Disclaimer
 
 Purchases made through the Shoppy link are for demonstration purposes only and do not activate any actual services. This project is intended for educational use to illustrate web development concepts.
+
+Project Status
+
+The project is still a work in progress, and there are improvements to be made. Further development and refinements are planned to enhance the website's functionality and user experience.
