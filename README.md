@@ -21,7 +21,7 @@ About Page
 
     Content: Provides detailed information about the cheat software and the website's purpose.
 
-![Example Image](resources/about.png)
+![Example Image](resources/about-page.png)
 
 User Authentication
 
